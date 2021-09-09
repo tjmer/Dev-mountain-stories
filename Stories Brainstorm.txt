@@ -1,0 +1,24 @@
+﻿Brainstorm:
+I remember one experience when we were working on an assignment.  It was one that we needed to push a movie to a list.  That we put in an input.  I couldn’t get it to populate until I noticed I forgot to add ‘document’ in it.
+        One experience I remember was one assignment with Peter that took all day.  But I would say that I learned so much from that day.
+        I would say my biggest struggle during foundations would be week 5 during backend.  That was my first time I didn’t finish my assessment before lunch.  I took the next week to finish it and make it do something I wanted to do.
+        During the deployment lesson I fell behind in the heroku lesson but I was able to catch up when I figured out what I did wrong and was able to deploy my project.
+        When we did the circleci I missed what we did to connect our page to the program.  I was able to catch up after lunch from watching videos from past foundations.
+
+
+Write:
+        One project I very much ended up enjoying was the backend.  Particularly the backend assessment.  When I first did the assessment I couldn’t get the select menu to work the way I wanted it to.  I also couldn’t get the information I wanted to populate the page.  For the following week I took the time to figure out how to connect with the back end.  I was then able to make the page do what I wanted it to.
+        
+        During the heroku lesson I fell behind.  I had an issue and didn’t get my page up on heroku.  I figured out what went wrong and was able to catch up with the code-along.
+
+
+        My favorite project was the final project.  I was able to make a site that I wanted to make to help me make something I wanted.
+
+
+Finalize:
+        The project I have enjoyed the most was the backend assessment.  When we did it I didn’t finish it at the time.  I struggled to get one of the functions to work properly.  I couldn’t get the select feature to work the way I wanted it to.  I turned it in and took a break for a bit.  The next week I decided to redo the whole thing and try to make it more in what I had envisioned.
+        I started it and was able to see what I did wrong.  I looked at some examples from earlier assignments and found what I was missing in my code.  I was able to add the missing code and got the project running.  Was very pleased with the final outcome of the assignment.
+
+
+        Another story I have that I was very pleased with was when we were learning sql.  On one of the days I was working with Peter.  I was having a hard time fully grasping the concept of joining and all.  The assignment was super long and it took Peter and I the whole lab and we still didn’t finish.  That evening we came back together to work on the assignment.  It still took us a few hours to finish it, but I feel it was a good experience.
+        When we came back the next day for class I felt much more confident in my understanding of the sql material.  It just started to click for the rest of the week.
